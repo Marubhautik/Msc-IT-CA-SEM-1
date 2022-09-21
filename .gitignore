@@ -57,3 +57,5 @@
 /Advance Java/Unit 1 Program/constractorwithobject/nbproject/private/
 /Advance Java/Unit 1 Program/constructorwithcollectionlist/build/
 /Advance Java/Unit 1 Program/constructorwithcollectionlist/nbproject/private/
+*.properties
+*.mf
